@@ -21,7 +21,7 @@ body{
     align-items: center;
     width: 800px;
     max-width: 80%;
-    background-color: #172B49;
+    background-color: #534092;
     padding: 1rem;
     box-shadow: black 0 0 10px 2px;
     border-radius: 5px;
@@ -49,8 +49,8 @@ body{
 
 .btn:hover{
     box-shadow: rgba(0, 0, 0, 0.5) 0 0 4px;
-    background-color: #A6529A;
-    border: solid 1px #A6529A;
+    background-color: #EC526A;
+    border: solid 1px #EC526A;
 }
 
 .endContainer{
